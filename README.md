@@ -1,8 +1,7 @@
-## About The Project
+## Step-by-Step Guide to Building Your Own Voice Assistant in python
 
 <div>
   <img src="https://github.com/salimizel/Voice-Assistance/blob/master/gif.gif" style="width: 20%;">
-  <p>"Lightweight *Voice Assistant* based on Python"</p>
 </div>
 
 
