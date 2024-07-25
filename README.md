@@ -14,3 +14,5 @@ Why Us:
 - based on Python and utilizing popular libraries like speech_recognition and pyttsx3
 
 - Implements a command cache to store previously recognized commands and their results, optimizing performance by quickly retrieving responses for commonly used commands.
+
+- Open Source and Community Support
