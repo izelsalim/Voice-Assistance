@@ -7,7 +7,7 @@
 
 Project's Key Aspect:
 
-- based on [Python] and utilizing popular libraries like [speech_recognition] and [pyttsx3]
+- based on [Python](https://www.python.org/downloads/) and utilizing popular libraries like [speech_recognition](https://pypi.org/project/SpeechRecognition/) and [pyttsx3](https://pypi.org/project/pyttsx3/)
 -  Utilizes Google's Speech Recognition service to accurately transcribe spoken commands in real-time.
 - Customizable Voice and Speech Rate: Users can select different voices and adjust speech rates to personalize their interaction experience
 - Implements a command cache to store previously recognized commands and their results.
