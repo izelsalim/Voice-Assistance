@@ -39,7 +39,7 @@ The script can be deployed on a desktop or laptop equipped with a microphone. Us
 
 
 
-## Step-by-step Guide for "Voice Assistant Script"
+## "Let´s begin the script"
 
 ### Prerequisites
 - Basic knowledge of Python programming
