@@ -4,8 +4,6 @@
   <img src="https://github.com/salimizel/Voice-Assistance/blob/master/gif.gif" style="width: 20%;">
 </div>
 
-- based on [Python](https://www.python.org/downloads/) and utilizing popular libraries like [speech_recognition](https://pypi.org/project/SpeechRecognition/) and [pyttsx3](https://pypi.org/project/pyttsx3/)
-
 ## Voice Assistant Script Overview
 
 ### Key Features
@@ -28,7 +26,6 @@
 
 5. **Modular Structure and Extensibility:**
    - Organized into functions (`listen()`, `speak()`, `assistant()`) for clear separation of concerns and easy maintenance.
-   - Facilitates extension with additional commands (`open epic`, `open whatsapp`) and customization through voice command handling.
 
 ### Example Usage Scenario
 
