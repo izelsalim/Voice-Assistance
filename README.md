@@ -37,4 +37,16 @@ The script can be deployed on a desktop or laptop equipped with a microphone. Us
 - **Convenience:** Provides quick access to information and actions through voice interaction.
 - **Customization:** Allows users to add or modify commands based on their specific needs or preferences.
 
- 
+
+
+## Step-by-step Guide for "Voice Assistant Script"
+
+### Prerequisites
+- Basic knowledge of Python programming
+- Python installed on your computer (version 3.6 or higher recommended).
+
+### Step 1: Install Required Libraries
+First, you need to install the necessary Python libraries:
+`speech_recognition`: For recognizing speech from audio input.
+`pyttsx3`: For converting text to speech.
+
