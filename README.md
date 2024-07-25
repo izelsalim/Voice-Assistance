@@ -1,6 +1,5 @@
-# Voice-Assistance.py 
+# About The Project
 
 
 ### About The Project
-Why using our Voice-Assistance?
-- 
+"Our project is a lightweight voice assistant script based on Python."
